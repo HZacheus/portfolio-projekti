@@ -3,10 +3,19 @@ body{
     margin: 0;
     padding: 0;
     line-height: 1.6;
+    background-color: #333;
+    color: white;
 }
 
-header, footer{
-    background-color: #333;
+header{
+    background-color: gray;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+footer{
+    background-color: black;
     color: white;
     padding: 20px;
     text-align: center;
@@ -40,4 +49,20 @@ h2{
 .esittely img{
     width: 200px;
     border-radius: 10px;
+}
+
+.ekanappi{
+    background: linear-gradient(135deg, #1f1f1f, #2a2a2a);
+    color: #ffffff;
+    border: 1px solid #333;
+    padding: 12px 24px;
+    font-size: 16px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+.ekanappi:hover{
+    background: linear-gradient(135deg, #2a2a2a, #3a3a3a);
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.6);
+transform: translateY(-1px);
 }
