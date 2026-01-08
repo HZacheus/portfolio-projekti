@@ -20,3 +20,12 @@ Lisäsin projektiin js tiedoston sekä tein yhden toimivan napin ja tein siitä 
 
 Projektin verkkoversio:
 https://hzacheus.github.io/portfolio-projekti/
+
+## Photoshop-kuva
+
+Kuva on muokattu Adobe Photoshopilla.
+Tausta on poistettu ja luotu uudelleen Photoshopin tekoälytyökauluilla.
+
+Kuvan lähde: [täältä](https://pixabay.com/photos/brown-bear-grizzly-bear-bear-mammal-8164838/)
+Työkalu: Adobe Photoshop
+Tekoäly: Photoshop (Generatiivinen täyttö)
