@@ -15,3 +15,8 @@
 ## Projektin laajennus
 Tässä tehtävässä toteutin seuraavan laajennuksen:
 Lisäsin projektiin js tiedoston sekä tein yhden toimivan napin ja tein siitä hienon css avulla.
+
+## Julkaisu
+
+Projektin verkkoversio:
+https://hzacheus.github.io/portfolio-projekti/
